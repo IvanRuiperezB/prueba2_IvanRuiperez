@@ -15,3 +15,4 @@ Un párrafo, con palabras en **negrita**, en *cursiva*, en código (por ejemplo 
 
 [enlace](https://dit.gonzalonazareno.org/gestiona/)
 
+![alt debian](Debian_logo.png)
