@@ -15,6 +15,8 @@ Un párrafo, con palabras en **negrita**, en *cursiva*, en código (por ejemplo 
 
 [enlace](https://dit.gonzalonazareno.org/gestiona/)
 
+[hola.txt](hola.txt)
+
 ![alt debian](Debian_logo.png)
 
 | Columna 1 | Columna 2 | Columna 3 |
