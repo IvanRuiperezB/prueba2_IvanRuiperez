@@ -1,2 +1,2 @@
-* Título principal
-** Subtítulo
+# Título principal
+## Subtítulo
